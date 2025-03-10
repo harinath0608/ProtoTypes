@@ -1,0 +1,20 @@
+Prototype Newsletter :
+
+FONT :
+Segoe UI - https://www.cufonfonts.com/font/segoe-ui
+Lato - https://www.fontsquirrel.com › fonts › lato
+Open Sans - https://www.fontsquirrel.com › fonts › open-sans
+
+The photos used in the preview are not included.
+Free font used.
+
+ILLUSTRATOR :
+- Drag your Image, select both of picture and the Placeholder, then Right Click choose Make
+  Clipping Mask.
+
+PHOTOSHOP :
+- Double Click to "Replace" Layer and Put your image there.
+  Dont't forget to save the tab, your picture will be automatically change.
+
+
+
